@@ -1,0 +1,3 @@
+die Variable wird nicht als Fehler markiert. Weil die Variable eine lokale Variable ist und gültig nur in der Method laengeAusgabe.
+der Wert 5.4 wird ausgegeben.
+Wenn man den Wert von der Attribute aufrufen möchtet, muss man this. benutzen.
